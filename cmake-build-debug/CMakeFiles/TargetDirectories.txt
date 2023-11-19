@@ -1,0 +1,3 @@
+D:/Programação/C/desafios/cmake-build-debug/CMakeFiles/desafios.dir
+D:/Programação/C/desafios/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programação/C/desafios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
